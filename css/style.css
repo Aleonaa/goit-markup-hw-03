@@ -44,6 +44,7 @@ img {
 }
 /*=============== Site Header==============*/
 .page-header {
+  border-bottom: 1px solid #ececec;
   padding-top: 25px;
   padding-bottom: 24px;
 }
@@ -333,8 +334,12 @@ img {
 .footer-tel {
   color: rgba(255, 255, 255, 0.6);
 }
+.footer-adress .footer-item {
+  margin-bottom: 9px;
+}
 .adress-location {
   color: #ffffff;
+  margin-bottom: 9px;
 }
 
 /*================End Footer======================= */
